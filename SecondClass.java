@@ -1,4 +1,4 @@
-import PACK.*;
+import Folder1.*;
 import java.util.Scanner;;
 class SecondClass{
     public static void main(String[] args) {
